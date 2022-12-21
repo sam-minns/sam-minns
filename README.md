@@ -1,4 +1,4 @@
-I am Executive Management Consultant who has an interest in implenting new technologies and ML into new and exisiting otganisations.
+I am an Executive Management Consultant who has an interest in implenting new technologies and ML into new and exisiting otganisations.
 
 Not a programmer.
 
