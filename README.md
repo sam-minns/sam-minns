@@ -2,7 +2,7 @@ I am an Executive Management Consultant who has an interest in implenting new te
 
 Not a programmer.
 
-I have has little formal experience in 'coding' but like to think that 'automating the boring stuff' will take alot of life's little hurdles out of one's day to work more efficently and have time to work on the important decisions that need attention.
+I have had little formal experience in 'coding' but like to think that 'automating the boring stuff' will take alot of life's little hurdles out of one's day to work more efficently and have time to work on the important decisions that need attention.
 
 My Github collection will be ideas that I will work on when I have time or have motivation to work on.
 
